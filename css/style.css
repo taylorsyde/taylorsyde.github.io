@@ -416,7 +416,7 @@ textarea.form-control {
 }
 @media (max-width: 991px) {
   .navigation.nav-bg {
-    padding: 15px 20px;
+    padding: 0px 0px;
   }
 }
 @media (max-width: 991px) {
@@ -429,7 +429,10 @@ textarea.form-control {
 .navbar .nav-item .nav-link {
   font-family: "Playfair Display", serif;
   text-transform: uppercase;
-  padding: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .navbar .nav-item.active {
   font-weight: bold;
@@ -791,7 +794,7 @@ blockquote {
 }
 
 .page-title {
-  padding: 250px 0 150px;
+  padding: 120px 0px;
 }
 .page-title .container {
   position: relative;
