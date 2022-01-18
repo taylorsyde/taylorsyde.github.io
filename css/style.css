@@ -205,8 +205,8 @@ a:hover {
 }
 
 .section {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 10px;
+  padding-bottom: 40px;
 }
 .section-title {
   margin-bottom: 80px;
@@ -685,7 +685,7 @@ textarea.form-control {
 /* /testimonial */
 /* footer */
 .footer-section {
-  padding-top: 200px;
+  padding-top: 50px;
 }
 
 .section-on-footer {
